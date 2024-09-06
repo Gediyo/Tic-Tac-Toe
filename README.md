@@ -5,4 +5,5 @@ This is a Tic-Tac-Toe game developed for two players (player 'X' and player 'O')
 
 # Tic-Tac-Toe (AI-vs-Human)
 A Tic-Tac-Toe game developed to be played with an AI agent.
+
 ![Screenshot 2024-09-06 121854](https://github.com/user-attachments/assets/4d078866-f44c-46c4-9a51-6ec4f5c90d80)
